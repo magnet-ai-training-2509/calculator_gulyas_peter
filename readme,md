@@ -1,0 +1,21 @@
+# Négy alapműveletes Számológép — Android (Kotlin, Jetpack Compose)
+
+## Rövid leírás
+Ez egy egyszerű Android-alkalmazás Kotlin nyelven, amely a négy alapműveletet támogatja:  
+➕ összeadás, ➖ kivonás, ✖️ szorzás és ➗ osztás.  
+
+Az alkalmazás **Jetpack Compose** segítségével épül fel, így nincs szükség külön XML layoutokra.
+
+## Főbb funkciók
+- Két szám bevitele szövegmezőkben
+- Négy alapművelet gombnyomásra
+- Hibakezelés (pl. üres mező, osztás nullával)
+- Letisztult Material 3 UI
+
+## Telepítés
+1. Klónozd a repót
+2. Nyisd meg Android Studio-ban
+3. Futtasd emulátoron vagy eszközön
+
+## Licenc
+MIT License © 2025
